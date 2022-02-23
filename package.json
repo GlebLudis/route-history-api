@@ -1,0 +1,19 @@
+{
+  "name": "route-history-api",
+  "version": "1.0.0",
+  "description": "otus homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlebLudis/route-history-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlebLudis/route-history-api/issues"
+  },
+  "homepage": "https://github.com/GlebLudis/route-history-api#readme"
+}
